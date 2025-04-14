@@ -3,6 +3,9 @@
 /bin/
 /obj/
 
+# Ignore temporary directories
+.vs/
+
 # Ignore user-specific files
 *.user
 *.sln
